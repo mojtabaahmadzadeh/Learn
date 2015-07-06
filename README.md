@@ -1,2 +1,2 @@
 # Learn
-Learning Git
+My Learning Git , it is very good
